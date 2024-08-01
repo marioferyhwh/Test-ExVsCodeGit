@@ -11,6 +11,5 @@ git branch -f master origin/master~1
 ```
 git checkout ref
 echo "change" >> testChange.txt
-
 ```
 
